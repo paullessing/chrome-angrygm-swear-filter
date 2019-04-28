@@ -1,0 +1,21 @@
+{
+  "name": "AngryGM's Anti-Anti-Swear Filter",
+  "short_name": "Anti-Swear",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Replaces swear filter on angrygm.com with corresponding swearwords",
+  "homepage_url": "https://paullessing.com",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://theangrygm.com/*",
+        "https://*.theangrygm.com/*"
+      ],
+      "js": ["js/content.js"]
+    }
+  ],
+  "permissions": [
+    "https://theangrygm.com",
+    "https://*.theangrygm.com"
+  ]
+}
