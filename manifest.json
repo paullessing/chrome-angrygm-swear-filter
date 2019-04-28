@@ -17,5 +17,6 @@
   "permissions": [
     "https://theangrygm.com",
     "https://*.theangrygm.com"
-  ]
+  ],
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhd2xcUUUqjChfzdDvvpUdWeAnEMlY3ZHBXRUI2u5xw/3N1NPzUmXnsMTMe35vDsfAH9YvK1yHFY9exK65RV+TM5QuZrFQa9RJAThsosZvGAefGXjk+2VrVBNt0VKlJNc/nX7fMeQiClAx6XhUEx5BUezBOKP+xWeZtA1k/4+bKKVAd/CGkzf9TJqrbya3ieUVbJAbwpX8eM9mr2afas+GVF05P3SyJfS5YoUbaWS5H1YDowuW0AUMeRRGUEakH5nD13mqcIBjGNNR6RBeBydUTPgeSOPyRq3zeRhntIUJMIw0hYX+xDCZBc4sPHP2shKKWZwKoT8I/tU5q6zL01KXQIDAQAB"
 }
